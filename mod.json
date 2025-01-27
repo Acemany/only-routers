@@ -4,5 +4,6 @@
     "author": "Acemany",
     "description": "Router router router router router router.",
     "version": 1.0,
-    "minGameVersion": 146
+    "minGameVersion": 146,
+    "hidden": true
 }
